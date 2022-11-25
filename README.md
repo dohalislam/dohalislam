@@ -2,7 +2,6 @@
 #### Learner
 ![Learner](https://media-exp1.licdn.com/dms/image/C4E16AQG7_rCYEg-C8g/profile-displaybackgroundimage-shrink_350_1400/0/1663393557189?e=1674691200&v=beta&t=3js1of0fr4UIro-8vCcp4oaixYBQ4NSftNhZIJaM6LQ)
 
-I am Dohal Islam, currently student at NITER.
 
 Skills:  HTML / CSS
 
